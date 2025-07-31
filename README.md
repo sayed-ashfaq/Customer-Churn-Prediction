@@ -30,7 +30,7 @@ This project predicts **customer churn** (whether a customer will leave the serv
 ### **How to Run the Project Locally**  
 #### **Step 1: Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
+git clone https://github.com/sayed-ashfaq/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
 ```
 
